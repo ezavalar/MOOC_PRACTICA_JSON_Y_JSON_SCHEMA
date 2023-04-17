@@ -1,12 +1,12 @@
 {
-    "name": "nosql_practica1_bbdd",
+    "name": "MOOC_PRACTICA_JSON_Y_JSON_SCHEMA",
     "author": "BBDD-ETSIT",
     "license": "GNU",
     "version": "0.0.0",
     "capturesFolder": "miscapturas",
     "capturesNumber": 2,
     "info": {
-        "githubURL": "BBDD-ETSIT/nosql_practica1_bbdd",
+        "githubURL": "BBDD-ETSIT/MOOC_PRACTICA_JSON_Y_JSON_SCHEMA",
         "serverUrl": "https://moocbot.dit.upm.es/",
         "courseId": "1312",
         "assignmentId": "809"
