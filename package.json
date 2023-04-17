@@ -1,0 +1,19 @@
+{
+    "name": "nosql_practica1_bbdd",
+    "author": "BBDD-ETSIT",
+    "license": "GNU",
+    "version": "0.0.0",
+    "capturesFolder": "miscapturas",
+    "capturesNumber": 2,
+    "info": {
+        "githubURL": "BBDD-ETSIT/nosql_practica1_bbdd",
+        "serverUrl": "https://moocbot.dit.upm.es/",
+        "courseId": "1312",
+        "assignmentId": "809"
+    },
+    "dependencies": {
+        "autocorector": "^3.1.6",
+        "ajv": "^8.10.0",
+        "ajv-formats": "^2.1.1"
+    }
+}
