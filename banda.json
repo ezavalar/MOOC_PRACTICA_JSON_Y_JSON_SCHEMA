@@ -1,0 +1,47 @@
+{
+    "group": "Aerosmith",
+    "foundation_year" : "1970-01-01",
+    "web": "https://www.aerosmith.com/",
+    "email": "ezavalar_isc@hotmail.com",
+    "description": "Aerosmith es una banda estadounidense de rock formada en Boston en 1970. Sus miembros son: Steven Tyler (cantante), Joe Perry (guitarra), Tom Hamilton (bajo), Joey Kramer (batería) y Brad Whitford (guitarra).",
+    "members": [
+        {
+            "name": "Steven Tyler",
+            "age": 74
+        },
+        {
+            "name": "Joe Perry",
+            "age": 73
+        },
+        {
+            "name": "Tom Hamilton",
+            "age": 71
+        },
+        {
+            "name": "Brad Whitford",
+            "age": 71
+        },
+        {
+            "name": "Joey Kramer",
+            "age": 74
+        }
+    ],
+    "albums":[
+        {
+            "name":"Get a Grip",
+            "year":"1993",
+            "songs": [{
+                "name": "Cryin'",
+                "length": "PT5M9S",
+                "hit": true
+            },
+            {
+                "name": "Flesh",
+                "length": "PT5M57S",
+                "hit": false
+            }
+        ]
+        }
+    ],
+    "concerts": ["Detroit", "Chicago", "Washington", "Toronto", "Releigh", "Cleveland"]
+}
