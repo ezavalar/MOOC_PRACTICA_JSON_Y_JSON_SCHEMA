@@ -19,7 +19,7 @@ $ git clone https://github.com/BBDD-ETSIT/MOOC_PRACTICA_JSON_Y_JSON_SCHEMA
 A continuación se debe acceder al directorio de trabajo y abrir el fichero index.html con el editor de la elección del alumno.
 
 ```
-$ cd nMOOC_PRACTICA_JSON_Y_JSON_SCHEMA
+$ cd MOOC_PRACTICA_JSON_Y_JSON_SCHEMA
 $ npm install
 ```
 ## Prueba de la práctica  
